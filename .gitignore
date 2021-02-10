@@ -1,0 +1,9 @@
+.env
+.pytest_cache/
+venv/
+.vscode/
+.idea/
+Pipfile
+Pipfile.lock
+__pycache__/
+..gitignore.swp
